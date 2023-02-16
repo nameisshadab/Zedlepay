@@ -14040,9 +14040,9 @@ a.text-dark:hover {
 
 .shopBanner-subTitle {
     font-family: Inter, sans-serif;
-    color: #fff;
-    font-weight: 600;
-    font-size: 32px;
+    color: #0b51f8;
+    font-weight: bold;
+    font-size: 35px;
     line-height: 50px;
     z-index: 2
 }
